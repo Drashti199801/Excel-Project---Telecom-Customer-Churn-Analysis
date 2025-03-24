@@ -1,4 +1,4 @@
-# Excel-Project---Telecom-Customer-Churn-Analysis
+# Excel-Project-Telecom-Customer-Churn-Analysis
 
 # Overview
 This project analyzes customer churn trends in a telecom company by exploring key factors such as demographics, usage patterns, and geographical data. The analysis aims to identify high-risk segments and provide actionable insights to reduce churn rates.
@@ -33,7 +33,7 @@ Customer Service Calls by Area: Line chart depicting the distribution of service
 Area Code Filter: Dynamic slicer allowing analysis by region.
 
 # Usage Instructions
-Open the Telecom Customer Churn Analysis.xlsx file.
+Open the Telecom.xlsx file.
 
 Use the area code slicer to filter data by region.
 
